@@ -12,7 +12,7 @@ gem "rspec-its", require: false
 gem "rspec-retry", require: false
 gem "rspec-sorbet", require: false
 gem "rspec-wait", require: false
-gem "rubocop", require: false
+gem "rubocop", ">= 1.66.0", require: false
 gem "simplecov", require: false
 gem "sorbet", require: false
 gem "sorbet-runtime", require: false
